@@ -38,32 +38,33 @@ Ontario, Newfoundland, and British Columbia lead in real estate with higher prop
 
 10. Are the price differences between different districts increasing?
 ![image](https://github.com/PriyaGanesan2/Tableau-Project/assets/110922792/9674dea3-f8b6-4774-b011-ef8f10033767)
-The graph shows similar real estate pricing index across canada with little fluctuation until 2019, after which particularly noting a change in the housing price index for Alberta around 2019. 
-12. Compare the trend of house prices with earnings. *In case you want to plot monthly salary, be aware that the earnings value is per week.
+The graph shows similar real estate pricing index across canada with little fluctuation until 2019, after which particularly noting a change in the housing price index for Alberta around 2019.
+
+11. Compare the trend of house prices with earnings. *In case you want to plot monthly salary, be aware that the earnings value is per week.
 ![image](https://github.com/PriyaGanesan2/Tableau-Project/assets/110922792/d4427f45-4c40-4cbb-8774-0f4282d80347)
 House Affordability declined after 2006, with a consistent increase in housing prices. 
 
 
-13. There were several economic crises in the world in the last 40 years, including these four: Black Monday (1987), Recession (early 1990s), dot com bubble (2000 - 2002), Financial crisis (2007 - 2009). Show the effect of these crises
+12. There were several economic crises in the world in the last 40 years, including these four: Black Monday (1987), Recession (early 1990s), dot com bubble (2000 - 2002), Financial crisis (2007 - 2009). Show the effect of these crises
 ![image](https://github.com/PriyaGanesan2/Tableau-Project/assets/110922792/ba83c3bb-408b-4f1b-85ff-8f780fab5472)
 Impact of key economic crises in the last 40 years.
 Real estate prices experienced a drop during the 1990 recession and the financial crisis.
 Additionally, we can see a dip in Consumer Price Index during the financial crisis.
 
 
-14. Plot consumer_index together with housing_price_index and fit the regression line between them. Can we predict consumer_index from the housing_price_index?
+13. Plot consumer_index together with housing_price_index and fit the regression line between them. Can we predict consumer_index from the housing_price_index?
 ![image](https://github.com/PriyaGanesan2/Tableau-Project/assets/110922792/b6bd89bb-9659-46d3-a8e6-3162f72fb8d4)
 The trend line shows  strong correlation, emphasizing the significance of Housing Price in predicting the Consumer Price Index Value(CPI)
 Linear trend involving Housing Price and Consumer Price Index exhibited a significant correlation (p < 0.0001), with an R-Squared value of 0.70.
 
 
-15. Try to find an interesting pattern, trend, outlier, etc. from the data used in the above questions.
+14. Try to find an interesting pattern, trend, outlier, etc. from the data used in the above questions.
 HINT : Double check all units in the table before any comparison.
 ![image](https://github.com/PriyaGanesan2/Tableau-Project/assets/110922792/2e812ba5-1ce6-48ac-9dbb-a29a25849e4b)
 Housing Construction
 1960s to the early 1980s, there is a noticeable rise in housing construction and completed projects
 
-16. ![image](https://github.com/PriyaGanesan2/Tableau-Project/assets/110922792/744ffb35-5e97-4418-877d-27b1372293de)
+15. ![image](https://github.com/PriyaGanesan2/Tableau-Project/assets/110922792/744ffb35-5e97-4418-877d-27b1372293de)
 
 
 
