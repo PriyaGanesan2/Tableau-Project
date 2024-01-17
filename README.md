@@ -5,15 +5,16 @@ Leverage Tableau to conduct a comprehensive analysis of Canada's real estate lan
 
 
 ## Process
-### (your step 1)
-Step 1: Leverage Excel and Python to explore and clean the data (remove null, remove special characters after JSON extract, etc)
+### Step 1
+Leverage Excel and Python to explore and clean the data (remove null, remove special characters after JSON extract, etc)
 
-### (your step 2)
-Step 2: Import the Cleaned dataset into Tableau
-### (step 3)
-Step 3: Developing visualizations and trends to explore the dataset to answer the questions 
+### Step 2
+Import the Cleaned dataset into Tableau
 
-## Results
+### Step 3
+Developing visualizations and trends to explore the dataset to answer the questions 
+
+## Results 
 1. Option selected - 1
 2. Show the trend of house prices across Canada in the last 40 years (table housing_price_index).
    ![image](https://github.com/PriyaGanesan2/Tableau-Project/assets/110922792/3cd0045c-cb3b-41ac-bc1c-fb622680a2ba)
